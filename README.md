@@ -5,7 +5,7 @@
 
 Steps: 
 1. installed Flask 
-2. get into the virtul environment: pipenv shell
+2. get into the virtual environment: pipenv shell
 3. Installed Flask-Mail
 6. Create SMTP credentials using the google 
 
